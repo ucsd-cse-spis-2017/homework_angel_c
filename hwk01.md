@@ -1,0 +1,5 @@
+1. Declarative knowledge is about true statements that are exact, but doesn't give the reasoning to find the solution. Imperative knowledge is the opposite, whereas, it shows the reasoning and steps to reaching the solution.
+2. Fixed program computers were only meant to do a certain thing while stored program computers can do a number of instructions.
+3. The example of an "uncomputable function" mentioned stated that is impossible to write a program that given an arbitrary program, call it P, prints "true" if and only if P runs forever.
+4. The significance of the notion of Turing Completeness to the discussion is that anything can be done the same in any programming language, however, while there are some that make it easier, they all are pretty much the same.
+5. While there are hundreds of different programming languages, they all can perform basically the same. Each programming languages has a set primitive constructs, a syntax, a static semantics, and a semantics. The primitive constructs in Python include literals and infix operators. 
