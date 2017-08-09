@@ -1,5 +1,5 @@
 
-1. Guttag discusses variables and names at some length on pages 12 and 13 (section 2.1.2) What are the four most important points that you would take away from this section?
+1. Guttag discusses variables and names at some length on pages 12 and 13 (section 2.1.2) What are the four most important points that you would take away from this section? A variable is just a name in python. An assignment is associated with the name to the left of the "=" and the expression on the right of the "=" as well. 
 
 2. In Python, indentation and nesting are signficant concepts. Guttag offers an explanation of these, with some examples. If you feel like you understand these from his explanation, my question is: how would YOU explain these concepts to someone new to the Python language? That is: use your own words, not Guttag’s. If you feel like your understanding is still not firm, what questions would you ask about indentation and nesting, after reading Guttag’s explanation?
 
